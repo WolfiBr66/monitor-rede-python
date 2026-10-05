@@ -1,0 +1,5 @@
+
+--- Verificação em 05/10/2026 12:45:28 ---
+8.8.8.8 - ONLINE - 80:fechada | 443:aberta | 3389:fechada
+1.1.1.1 - ONLINE - 80:aberta | 443:aberta | 3389:fechada
+google.com - ONLINE - 80:aberta | 443:aberta | 3389:fechada
